@@ -1,0 +1,20 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@comunica/query-sparql": "^5.2.0",
+    "graphql": "^16.13.2",
+    "graphql-to-sparql": "^6.0.0",
+    "sparqljson-to-tree": "^3.0.2"
+  }
+}

@@ -1,0 +1,29 @@
+Structure attendue du rapport portant sur votre projet de recherche
+ 
+1. Introduction et contexte
+problème étudié
+importance du sujet
+lien avec le cours
+2. Analyse de l’article
+contributions principales
+positionnement par rapport à l’existant
+hypothèses
+3. Modélisation et méthode
+description du modèle
+pipeline (schéma recommandé)
+données utilisées
+4. Implémentation
+choix techniques :
+langage
+librairies
+simplifications effectuées
+difficultés rencontrées
+5. Expérimentation
+protocole expérimental
+métriques utilisées
+résultats obtenus
+6. Analyse critique
+forces
+limites
+hypothèses discutables
+reproductibilité
