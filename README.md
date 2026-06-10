@@ -1,7 +1,5 @@
 # POC GraphQL-LD - Résumé d'implémentation
 
-Ce POC implémente les spécifications décrites dans [POC_GraphQL-LD.md](../POC_GraphQL-LD.md).
-
 ## ✅ Conformité avec le document
 
 ### Étapes implémentées ✓
