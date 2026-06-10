@@ -1,6 +1,6 @@
 # POC GraphQL-LD - Résumé d'implémentation
 
-## ✅ Conformité avec le document
+## Conformité avec le document
 
 ### Étapes implémentées ✓
 
